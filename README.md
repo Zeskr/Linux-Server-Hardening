@@ -1,4 +1,4 @@
-# 🛡️ Automated Linux Enterprise Hardening Script
+# 🛡️ Automated Linux Hardening Script
 
 ## Overview
 A Bash automation script designed to enforce immediate infrastructure baseline security on raw Debian/Ubuntu deployments. This script programmatically hardens the kernel against network-level attacks, configures the local firewall, and restricts remote access protocols to mitigate automated exploitation and brute-force campaigns.
